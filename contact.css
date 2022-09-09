@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    text-align: center;
+}
+.table-menu1 td :link{
+    color: #FFAE6D(255, 142, 142);
+}
+.table-menu1 td :hover{
+    background-color: #E3C770;
+    color: #FFAE6D(255, 159, 159);
+    
+}
+
+.table-menu1 {
+    background-color: #D2D79F;
+   
+    
+}
+body {
+    background-color: #D6CDA4;
+    color: darkolivegreen;
+}
+h1{
+    color: darkslategray;
+    background-color: #E3C770;
+}

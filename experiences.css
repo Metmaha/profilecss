@@ -1,0 +1,20 @@
+body {
+    background-color: #D6CDA4;
+    color: darkolivegreen;
+}
+.table-menu1 td :link{
+    color: #FFAE6D(255, 142, 142);
+}
+.table-menu1 td :hover{
+    background-color: #E3C770;
+    color: #FFAE6D(255, 159, 159);
+    
+}
+
+.table-menu1 {
+    background-color: #F1A661;
+}
+h1{
+    color: darkslategray;
+    background-color:#E3C770;
+}
